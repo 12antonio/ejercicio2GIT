@@ -1,0 +1,26 @@
+body{
+    background-color: cyan;
+    
+}
+h1 {
+background-color: darkorchid;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: white;
+}
+h3 { 
+    background-color: gold;
+}
+.img1
+{
+
+}
+    
+
+    
+.titulo
+{
+    text-align: center;
+    background-color: darkorchid ;
+    border-style: solid;
+    border-color: gold;
+}
